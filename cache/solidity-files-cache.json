@@ -1,0 +1,1058 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\Babylonian.sol": {
+      "lastModificationDate": 1745478494224,
+      "contentHash": "f79b669c6a0aa3d3f501fb52800db1c3",
+      "sourceName": "contracts/factory/Babylonian.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Babylonian"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\IERC20.sol": {
+      "lastModificationDate": 1745478494224,
+      "contentHash": "c1daa20ba503533a624f17f777c966f9",
+      "sourceName": "contracts/factory/IERC20.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "IERC20"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\node_modules\\@uniswap\\lib\\contracts\\libraries\\TransferHelper.sol": {
+      "lastModificationDate": 1745479707662,
+      "contentHash": "7fad4038612c5f040ebd746a3e58e0db",
+      "sourceName": "@uniswap/lib/contracts/libraries/TransferHelper.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.6.0"
+      ],
+      "artifacts": [
+        "TransferHelper"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\IWETH.sol": {
+      "lastModificationDate": 1745478494226,
+      "contentHash": "69e3a909ea8ece795fac8929b9863b1f",
+      "sourceName": "contracts/factory/IWETH.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "IWETH"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\ItestDEXPair.sol": {
+      "lastModificationDate": 1745478993708,
+      "contentHash": "713d3e229959605aa1732595ab31cc5d",
+      "sourceName": "contracts/factory/ItestDEXPair.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ItestDEXPair"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\ItestDEXCallee.sol": {
+      "lastModificationDate": 1745479186134,
+      "contentHash": "7ccc4ef210b753a89d8a19a2424ea935",
+      "sourceName": "contracts/factory/ItestDEXCallee.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ItestDEXCallee"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\ItestDEXFactory.sol": {
+      "lastModificationDate": 1745478968712,
+      "contentHash": "4c568c144ea06b121267b48b378da863",
+      "sourceName": "contracts/factory/ItestDEXFactory.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ItestDEXFactory"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\ItestDEXERC20.sol": {
+      "lastModificationDate": 1745478955086,
+      "contentHash": "e1e35d9f2c0809ee0c9175c5e9f68827",
+      "sourceName": "contracts/factory/ItestDEXERC20.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ItestDEXERC20"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\ItestDEXRouter02.sol": {
+      "lastModificationDate": 1745479019066,
+      "contentHash": "3d3a0015056958d0790662583ea546ab",
+      "sourceName": "contracts/factory/ItestDEXRouter02.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./ItestDEXRouter01.sol"
+      ],
+      "versionPragmas": [
+        ">=0.6.2"
+      ],
+      "artifacts": [
+        "ItestDEXRouter02"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\ItestDEXRouter01.sol": {
+      "lastModificationDate": 1745479006889,
+      "contentHash": "4df4e75eb5296506ec90287f87572644",
+      "sourceName": "contracts/factory/ItestDEXRouter01.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.6.2"
+      ],
+      "artifacts": [
+        "ItestDEXRouter01"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\ItestDEXMigrator.sol": {
+      "lastModificationDate": 1745478981497,
+      "contentHash": "276635e4313afc65a745de9109ccc815",
+      "sourceName": "contracts/factory/ItestDEXMigrator.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ItestDEXMigrator"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\Multicall.sol": {
+      "lastModificationDate": 1745478508179,
+      "contentHash": "57f13507ede9c9500a1ddc70b031a2e4",
+      "sourceName": "contracts/Multicall.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "Multicall"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\testDEXFarm.sol": {
+      "lastModificationDate": 1745484305892,
+      "contentHash": "7f956f9744ded3327c333e400d91c560",
+      "sourceName": "contracts/testDEXFarm.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        ">=0.4.0",
+        ">=0.4.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "IERC20",
+        "IMasterChef",
+        "Ownable",
+        "ReentrancyGuard",
+        "SafeERC20",
+        "SafeMath",
+        "testDEXFarm"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\testDEXStake.sol": {
+      "lastModificationDate": 1745485381609,
+      "contentHash": "7a4afc74a71ad5ce427b37b16a1f6649",
+      "sourceName": "contracts/testDEXStake.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        ">=0.4.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "IBoostContract",
+        "IERC20",
+        "IMasterChefV2",
+        "IVCake",
+        "Ownable",
+        "Pausable",
+        "SafeERC20",
+        "testDEXPool"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\testDEXToken.sol": {
+      "lastModificationDate": 1745479673905,
+      "contentHash": "8a5add8bea8c1090779813a88062c427",
+      "sourceName": "contracts/testDEXToken.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <=0.8.20",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Context",
+        "IERC20",
+        "Ownable",
+        "testDEXworld"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\testDEXRouter01.sol": {
+      "lastModificationDate": 1745479232869,
+      "contentHash": "a38265caeeadf410ce89f4f4a70c3063",
+      "sourceName": "contracts/factory/testDEXRouter01.sol",
+      "solcConfig": {
+        "version": "0.6.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@uniswap/lib/contracts/libraries/TransferHelper.sol",
+        "./testDEXLibrary.sol",
+        "./ItestDEXRouter01.sol",
+        "./ItestDEXFactory.sol",
+        "./IERC20.sol",
+        "./IWETH.sol"
+      ],
+      "versionPragmas": [
+        "=0.6.6"
+      ],
+      "artifacts": [
+        "testDEXRouter01"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\testDEXLibrary.sol": {
+      "lastModificationDate": 1745480447424,
+      "contentHash": "dfa10910ffe139779489192b423c8d5a",
+      "sourceName": "contracts/factory/testDEXLibrary.sol",
+      "solcConfig": {
+        "version": "0.6.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./SafeMath.sol",
+        "./ItestDEXFactory.sol",
+        "./ItestDEXPair.sol"
+      ],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "testDEXLibrary"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\SafeMath.sol": {
+      "lastModificationDate": 1745478494229,
+      "contentHash": "8d1c52ee053e6ea50630cdd67379f241",
+      "sourceName": "contracts/factory/SafeMath.sol",
+      "solcConfig": {
+        "version": "0.6.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.7.0"
+      ],
+      "artifacts": [
+        "SafeMath"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\testDEXRouter.sol": {
+      "lastModificationDate": 1745479220280,
+      "contentHash": "c83b2ac4ba8b2c1c01b4d7ed8794aee2",
+      "sourceName": "contracts/factory/testDEXRouter.sol",
+      "solcConfig": {
+        "version": "0.6.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@uniswap/lib/contracts/libraries/TransferHelper.sol",
+        "./ItestDEXRouter02.sol",
+        "./ItestDEXFactory.sol",
+        "./testDEXLibrary.sol",
+        "./SafeMath.sol",
+        "./IERC20.sol",
+        "./IWETH.sol"
+      ],
+      "versionPragmas": [
+        "=0.6.6"
+      ],
+      "artifacts": [
+        "testDEXRouter"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\testDEXSwapRouter.sol": {
+      "lastModificationDate": 1745480443147,
+      "contentHash": "ac6233dcbc2cfc2444200bcd662c5296",
+      "sourceName": "contracts/testDEXSwapRouter.sol",
+      "solcConfig": {
+        "version": "0.6.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0",
+        ">=0.5.0",
+        ">=0.6.2",
+        ">=0.6.2",
+        ">=0.5.0",
+        ">=0.5.0",
+        ">=0.5.0",
+        ">=0.5.0",
+        ">=0.6.0",
+        "=0.6.6"
+      ],
+      "artifacts": [
+        "IERC20",
+        "IUniswapFactory",
+        "IUniswapPair",
+        "IUniswapRouter01",
+        "IUniswapRouter02",
+        "IWETH",
+        "SafeMath",
+        "SwapLibrary",
+        "TransferHelper",
+        "testDEXSwapRouter"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\testDEXPair.sol": {
+      "lastModificationDate": 1745479205304,
+      "contentHash": "18c2780d23117efe3ad944706408e159",
+      "sourceName": "contracts/factory/testDEXPair.sol",
+      "solcConfig": {
+        "version": "0.5.16",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./ItestDEXPair.sol",
+        "./testDEXERC20.sol",
+        "./Math.sol",
+        "./UQ112x112.sol",
+        "./IERC20.sol",
+        "./ItestDEXFactory.sol",
+        "./ItestDEXCallee.sol"
+      ],
+      "versionPragmas": [
+        "=0.5.16"
+      ],
+      "artifacts": [
+        "testDEXPair"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\testDEXERC20.sol": {
+      "lastModificationDate": 1745479075422,
+      "contentHash": "acc511eb81a9c81dd82165d447e963e0",
+      "sourceName": "contracts/factory/testDEXERC20.sol",
+      "solcConfig": {
+        "version": "0.5.16",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./ItestDEXERC20.sol",
+        "./SafeMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.5.16"
+      ],
+      "artifacts": [
+        "testDEXERC20"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\Math.sol": {
+      "lastModificationDate": 1745478494226,
+      "contentHash": "82676f5cefc482a167096f7087a32a6d",
+      "sourceName": "contracts/factory/Math.sol",
+      "solcConfig": {
+        "version": "0.5.16",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.5.16"
+      ],
+      "artifacts": [
+        "Math"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\UQ112x112.sol": {
+      "lastModificationDate": 1745478494229,
+      "contentHash": "ae00c5d1575a72dd374e925f90d94650",
+      "sourceName": "contracts/factory/UQ112x112.sol",
+      "solcConfig": {
+        "version": "0.5.16",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.5.16"
+      ],
+      "artifacts": [
+        "UQ112x112"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\testDEXFactory.sol": {
+      "lastModificationDate": 1745479113615,
+      "contentHash": "fe2eeb5176e69dd889f3be3b44e2d9fd",
+      "sourceName": "contracts/factory/testDEXFactory.sol",
+      "solcConfig": {
+        "version": "0.5.16",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./ItestDEXFactory.sol",
+        "./testDEXPair.sol"
+      ],
+      "versionPragmas": [
+        "=0.5.16"
+      ],
+      "artifacts": [
+        "testDEXFactory"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\WBNB.sol": {
+      "lastModificationDate": 1745478494230,
+      "contentHash": "11bd83acdb249d71908ea9b9094681ac",
+      "sourceName": "contracts/factory/WBNB.sol",
+      "solcConfig": {
+        "version": "0.4.18",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.4.18"
+      ],
+      "artifacts": [
+        "WBNB"
+      ]
+    },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\WFTM.sol": {
+      "lastModificationDate": 1745478508181,
+      "contentHash": "2eb242ab0c04d1fc860cb6ddf77b349b",
+      "sourceName": "contracts/WFTM.sol",
+      "solcConfig": {
+        "version": "0.4.18",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.4.18"
+      ],
+      "artifacts": [
+        "WFTM"
+      ]
+    }
+  }
+}
