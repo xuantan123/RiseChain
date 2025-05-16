@@ -399,6 +399,73 @@
         "ItestDEXMigrator"
       ]
     },
+    "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\lipage.sol": {
+      "lastModificationDate": 1747366893018,
+      "contentHash": "9c0c7fc4d33cac1da01ee9cd2bc0fd7a",
+      "sourceName": "contracts/lipage.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18",
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "Arrays",
+        "Context",
+        "ERC1155",
+        "ERC165",
+        "IERC1155",
+        "IERC1155Errors",
+        "IERC1155MetadataURI",
+        "IERC1155Receiver",
+        "IERC165",
+        "IERC20Errors",
+        "IERC2981",
+        "IERC721Errors",
+        "LiPage",
+        "Math",
+        "Ownable",
+        "SignedMath",
+        "StorageSlot",
+        "Strings"
+      ]
+    },
     "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\Multicall.sol": {
       "lastModificationDate": 1745478508179,
       "contentHash": "57f13507ede9c9500a1ddc70b031a2e4",
@@ -542,7 +609,7 @@
       ]
     },
     "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\testDEXToken.sol": {
-      "lastModificationDate": 1745479673905,
+      "lastModificationDate": 1745487981676,
       "contentHash": "8a5add8bea8c1090779813a88062c427",
       "sourceName": "contracts/testDEXToken.sol",
       "solcConfig": {
@@ -839,7 +906,7 @@
       ]
     },
     "D:\\RiseChainTestnet\\RiseChainTestnet\\contracts\\factory\\testDEXERC20.sol": {
-      "lastModificationDate": 1745479075422,
+      "lastModificationDate": 1746673946289,
       "contentHash": "acc511eb81a9c81dd82165d447e963e0",
       "sourceName": "contracts/factory/testDEXERC20.sol",
       "solcConfig": {
